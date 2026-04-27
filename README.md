@@ -1,6 +1,6 @@
 # Lara Soares
 
-- 📫 Como me contatar: email: laragiovannadms@gmail.com
+- 📫 Email para contato: laragiovannadms@gmail.com
   
   
 **`Graduanda em Ciência da Computação`**
