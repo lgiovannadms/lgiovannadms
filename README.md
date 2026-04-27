@@ -1,8 +1,7 @@
 # Lara Soares
 
-- 📫 Como me contactar:
-  email: laragiovannadms@gmail.com
-  telefone: (84)99186-3957
+- 📫 Como me contatar: email: laragiovannadms@gmail.com
+  
   
 **`Graduanda em Ciência da Computação`**
 
