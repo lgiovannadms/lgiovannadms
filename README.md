@@ -1,5 +1,9 @@
 # Lara Soares
 
+- 📫 Como me contactar:
+  email: laragiovannadms@gmail.com
+  telefone: (84)99186-3957
+  
 **`Graduanda em Ciência da Computação`**
 
 Me chamo Lara Giovanna de Moura Soares, tenho 20 anos e sou natural do Rio Grande do Norte. Concluí o ensino médio no Colégio Pequeno Príncipe, na cidade de Mossoró, no Rio Grande do Norte. Atualmente, estou cursando Ciência da Computação na UFCG. Estou constantemente buscando evolução na área tecnológica.
